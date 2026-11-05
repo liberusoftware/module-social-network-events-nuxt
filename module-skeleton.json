@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-events-nuxt",
+  "capabilityKey": "liberusoftware/module-social-network-events",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-social-network-events-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/social-network/nextjs/events.md",
+  "presentationPlan": "projects/social-network/nuxt/events.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
